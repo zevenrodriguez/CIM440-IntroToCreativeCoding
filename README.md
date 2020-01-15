@@ -13,8 +13,9 @@
 
 ### Week 1 - Introduction to Creative Coding and Getting Started with Unity (Jan 13th-16th)
 
-* [Slides](https://docs.google.com/presentation/d/1JOyKlBnO07jWDOI2GCSGj7Qi4ifHQrrECOa8ZJdVJA8/edit?usp=sharing)
+* [Intro to Creative Coding Slides](https://docs.google.com/presentation/d/1JOyKlBnO07jWDOI2GCSGj7Qi4ifHQrrECOa8ZJdVJA8/edit?usp=sharing)
 * [Inspiration](inspiration.md)
+* [Unity UI and C# scripts](https://docs.google.com/presentation/d/1p4PsdqcDyNW-75JJrLv6wtzsfHaFDP6hFd_TB3zaaOo/edit?usp=sharing)
 
 ### Week 2 - Getting Started with Unity UI (Jan 20th-23rd)
 
