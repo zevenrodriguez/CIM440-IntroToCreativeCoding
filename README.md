@@ -1,15 +1,14 @@
 # CIM440-35 – Intro to Creative Coding - Spring 2020  
 
-# Physical Computing: CIM 542/642-5R - Spring Semester 2019
-
 ### Instructor: Zevensuy Rodriguez
-#### Class Time: TWolfson 3034 MoWe 1:25 - 2:40PM
-#### Class Site: https://github.com/zevenrodriguez/CIM542-642
+#### Class Time: Wolfson 2046 MoWe 1:25 - 2:40PM
+#### Class Site: https://github.com/zevenrodriguez/CIM440-IntroToCreativeCoding
 #### Office: Francis L. Wolfson Building 2014
 #### Office Hours by Appointment, please [click here](https://outlook.office365.com/owa/calendar/OfficeHours@miamiedu.onmicrosoft.com/bookings/)
 #### Email: zevenrodriguez@miami.edu
 #### [Syllabus](CIM440-IntrotoCreativeCoding-General.pdf)
 
+### [Unity Scripting Reference](https://docs.unity3d.com/2019.2/Documentation/ScriptReference/index.html)
 
 ### Week 1 - Introduction to Creative Coding and Getting Started with Unity (Jan 13th-16th)
 
