@@ -21,6 +21,14 @@
 
 ### Week 3 - Adding Interaction: Buttons, Keyboard input, and Conditionals (Jan 27th-30th)
 
+*[Input Field Referenc](https://docs.unity3d.com/Packages/com.unity.ugui@1.0/manual/script-InputField.html)
+
+* [Counter Script]()
+* [Random Number Script]()
+* [Text Input Script]()
+
+
+
 ### Week 4 – Working with Media (Feb 3rd-6th)
 
 ### Week 5 - Arrays and Loops (Feb 10th-13th)
