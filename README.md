@@ -22,7 +22,10 @@
 
 *[Input Field Referenc](https://docs.unity3d.com/Packages/com.unity.ugui@1.0/manual/script-InputField.html)
 
-* [Counter Script]()
+* [Counter Script](/examples/CC-GettingStarted/Assets/script/exampleScripts/counterscript.cs)
+  * Text Box
+* [Counter Script With Float](/examples/CC-GettingStarted/Assets/script/exampleScripts/counterfloatscript.cs)
+  * Text Box
 * [Random Number Script]()
 * [Text Input Script]()
 
