@@ -20,21 +20,42 @@
 
 ### Week 3 - Adding Interaction: Buttons, Keyboard input, and Conditionals (Jan 27th-30th)
 
-*[Input Field Referenc](https://docs.unity3d.com/Packages/com.unity.ugui@1.0/manual/script-InputField.html)
-
 * [Counter Script](/examples/CC-GettingStarted/Assets/script/exampleScripts/counterscript.cs)
   * Text Box
 * [Counter Script With Float](/examples/CC-GettingStarted/Assets/script/exampleScripts/counterfloatscript.cs)
   * Text Box
-* [Random Number Script]()
-* [Text Input Script]()
-
-
 
 ### Week 4 – Working with Media (Feb 3rd-6th)
 
-### Week 5 - Arrays and Loops (Feb 10th-13th)
+* [Random Number Script](/examples/CC-GettingStarted/Assets/script/exampleScripts/randomnumber.cs)
+  * Text Box
+  * Button
+* [Text Input Script](/examples/CC-GettingStarted/Assets/script/exampleScripts/entertext.cs)
+  * InputField
+  * Button
+  * Text Box
+* [Text Input Party Script](/examples/CC-GettingStarted/Assets/script/exampleScripts/inputpartyscript.cs)
+  * InputField
+  * Button
+  * Text Box  
+* [Timer Script](/examples/CC-GettingStarted/Assets/script/exampleScripts/timerScript.cs)
+  * Button
+  * Text Box
 
+### Week 5 - Arrays and Loops (Feb 10th-13th)
+* [Image Gallery](/examples/CC-GettingStarted/Assets/script/exampleScripts/imagegaleryScript.cs)
+  * Button
+  * Raw Image
+* [Image Gallery Array](/examples/CC-GettingStarted/Assets/script/exampleScripts/imagegaleryarrayScript.cs)
+  * InputField
+  * Button
+  * Text Box
+* [Quiz](/examples/CC-GettingStarted/Assets/script/exampleScripts/quizscript.cs)
+  * Button
+  * Text Box
+* [Quiz Loop and Timer](/examples/CC-GettingStarted/Assets/script/exampleScripts/quizloopscript.cs)
+  * Button
+  * Text Box
 ### Week 6 - Animation and Movement(Feb 17th-20th)
 
 ### Week 7 - Midterm Project Workday (Feb 24th-27th)

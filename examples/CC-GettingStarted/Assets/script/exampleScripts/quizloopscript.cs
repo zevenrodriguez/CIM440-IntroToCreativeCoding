@@ -15,10 +15,10 @@ public class quizloopscript : MonoBehaviour
     int currentQuestion = 0;
     string currentAnswer = "";
     string[] answerKey = {"Elephant", "Hedgehog", "Chimpanzee", "Chameleon"};
-    
+
     float timer = 5f;
     bool startTimer = false;
-    
+
     void Start()
     {
         for(int i = 0; i < answerButton.Length; i++){
@@ -47,13 +47,13 @@ public class quizloopscript : MonoBehaviour
             currentAnswer = animals[3];
 
         });
-        
+
     }
 
     // Update is called once per frame
     void Update()
     {
-       questionOutput.text = questions[currentQuestion]; 
+       questionOutput.text = questions[currentQuestion];
        if(currentAnswer != ""){
            if(currentAnswer == answerKey[currentQuestion]){
                 currentQuestion = currentQuestion + 1;
@@ -72,7 +72,7 @@ public class quizloopscript : MonoBehaviour
                 correctIncorrect.text = "Correct";
             }else{
                 correctIncorrect.text = "Incorrect";
-            }     
+            }
        }
 
        if(startTimer == true){
@@ -83,8 +83,8 @@ public class quizloopscript : MonoBehaviour
                 timer = 5f;
                 }
             }
-       
 
-       
+
+
     }
 }
