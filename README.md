@@ -43,6 +43,7 @@
   * Text Box
 
 ### Week 5 - Arrays and Loops (Feb 10th-13th)
+* [Image Download Link](https://github.com/zevenrodriguez/CIM440-IntroToCreativeCoding/raw/master/examples/CC-GettingStarted/Assets/images.zip)
 * [Image Gallery](/examples/CC-GettingStarted/Assets/script/exampleScripts/imagegalleryScript.cs)
   * Button
   * Raw Image
