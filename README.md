@@ -46,7 +46,7 @@
 * [Image Gallery](/examples/CC-GettingStarted/Assets/script/exampleScripts/imagegalleryScript.cs)
   * Button
   * Raw Image
-* [Image Gallery Array](/examples/CC-GettingStarted/Assets/script/exampleScripts/imagegaleryarrayScript.cs)
+* [Image Gallery Array](/examples/CC-GettingStarted/Assets/script/exampleScripts/imagegalleryarrayScript.cs)
   * InputField
   * Button
   * Text Box
