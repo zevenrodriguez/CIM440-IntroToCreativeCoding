@@ -43,7 +43,7 @@
   * Text Box
 
 ### Week 5 - Arrays and Loops (Feb 10th-13th)
-* [Image Gallery](/examples/CC-GettingStarted/Assets/script/exampleScripts/imagegaleryScript.cs)
+* [Image Gallery](/examples/CC-GettingStarted/Assets/script/exampleScripts/imagegalleryScript.cs)
   * Button
   * Raw Image
 * [Image Gallery Array](/examples/CC-GettingStarted/Assets/script/exampleScripts/imagegaleryarrayScript.cs)
