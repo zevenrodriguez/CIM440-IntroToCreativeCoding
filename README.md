@@ -59,6 +59,9 @@
   * Text Box
 ### Week 6 - Animation and Movement(Feb 17th-20th)
 
+* [Keyboard Input](https://github.com/zevenrodriguez/CIM440-IntroToCreativeCoding/blob/master/examples/CC-GettingStarted/Assets/script/exampleScripts/ispykeyboardScript.cs)
+* [Trigger Collision](https://github.com/zevenrodriguez/CIM440-IntroToCreativeCoding/blob/master/examples/CC-GettingStarted/Assets/script/exampleScripts/ispycollision.cs)
+
 ### Week 7 - Midterm Project Workday (Feb 24th-27th)
 
 ### Week 8 - Midterm Project Presentation (Mar 3rd-5th)
