@@ -59,6 +59,8 @@
   * Text Box
 ### Week 6 - Animation and Movement(Feb 17th-20th)
 
+* [iSpy Start Package](https://github.com/zevenrodriguez/CIM440-IntroToCreativeCoding/blob/master/examples/ispyprojectstart.unitypackage)
+* [iSpy Finished Package](https://github.com/zevenrodriguez/CIM440-IntroToCreativeCoding/blob/master/examples/ispyproject.unitypackage)
 * [Keyboard Input](https://github.com/zevenrodriguez/CIM440-IntroToCreativeCoding/blob/master/examples/CC-GettingStarted/Assets/script/exampleScripts/ispykeyboardScript.cs)
 * [Trigger Collision](https://github.com/zevenrodriguez/CIM440-IntroToCreativeCoding/blob/master/examples/CC-GettingStarted/Assets/script/exampleScripts/ispycollision.cs)
 
