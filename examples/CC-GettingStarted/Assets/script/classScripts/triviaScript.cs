@@ -18,6 +18,9 @@ public class triviaScript : MonoBehaviour
     string[] answerKey = {"Elephant", "Hedgehog","Chimpanzee", "Chameleon"};
     int currentQuestion = 0;//keeping track of the current question
 
+    float timer = 5f;
+    bool startTimer = false;
+
     void Start()
     {
         //answerButtons[0].image.color = new Color32(0,255,0,127);
@@ -65,11 +68,30 @@ public class triviaScript : MonoBehaviour
        if(currentAnswer != ""){
            if(currentAnswer == answerKey[currentQuestion]){
                Debug.Log("Correct");
+               correctIncorrect.text = "correct";
+               currentQuestion = currentQuestion + 1;
+               if(currentQuestion > answerKey.Length-1){
+                   currentQuestion = 0;
+               }
+               startTimer = true;
+               timer =5f;
+
            }else{
                Debug.Log("Incorrect");
+               correctIncorrect.text = "Incorrect";
+               startTimer = true;
+               timer = 5f;
            }
 
            currentAnswer = "";
+       }
+
+       if(startTimer == true){
+           timer = timer - Time.deltaTime;
+           if(timer < 0){
+               startTimer = false;
+               correctIncorrect.text = "";
+           }
        } 
     }
 }

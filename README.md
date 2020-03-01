@@ -51,24 +51,43 @@
   * InputField
   * Button
   * Text Box
+
+### Week 6 - Animation and Movement(Feb 17th-20th)
+
 * [Quiz](/examples/CC-GettingStarted/Assets/script/exampleScripts/quizscript.cs)
   * Button
   * Text Box
 * [Quiz Loop and Timer](/examples/CC-GettingStarted/Assets/script/exampleScripts/quizloopscript.cs)
   * Button
   * Text Box
-### Week 6 - Animation and Movement(Feb 17th-20th)
+
+### Week 7 - Keyboard Input and Collisions (Feb 24th-27th)
 
 * [iSpy Start Package](https://github.com/zevenrodriguez/CIM440-IntroToCreativeCoding/blob/master/examples/ispyprojectstart.unitypackage)
 * [iSpy Finished Package](https://github.com/zevenrodriguez/CIM440-IntroToCreativeCoding/blob/master/examples/ispyproject.unitypackage)
 * [Keyboard Input](https://github.com/zevenrodriguez/CIM440-IntroToCreativeCoding/blob/master/examples/CC-GettingStarted/Assets/script/exampleScripts/ispykeyboardScript.cs)
 * [Trigger Collision](https://github.com/zevenrodriguez/CIM440-IntroToCreativeCoding/blob/master/examples/CC-GettingStarted/Assets/script/exampleScripts/ispycollision.cs)
 
-### Week 7 - Midterm Project Workday (Feb 24th-27th)
+### Week 8 - Midterm Project Workday (Mar 3rd-5th)
 
-### Week 8 - Midterm Project Presentation (Mar 3rd-5th)
+* Finish iSpy
+* Adding Assets
+  * [Finished Example](https://github.com/zevenrodriguez/CIM440-IntroToCreativeCoding/blob/master/examples/importAssets.unitypackage)
+  * https://assetstore.unity.com/
+  * https://poly.google.com/
+  * https://3d.si.edu/
 
-### Week 9 - Functions (Mar 16th-19th)
+#### Midterm Requirements
+
+Based of the Gallery, Quiz, or iSpy interactions create a new original project.
+
+* Create an orignal layout (10 Points)
+* Extend the example to make it your own
+  * Add a minimum 8 elements of interaction (10 Points each)
+* Add a timer or scoring element (10 Points)
+
+
+### Week 9 - Midterm Project Workday (Mar 16th-19th)
 
 ### Week 10 – Physics and Collision Detection (Mar 23rd-26th)
 
