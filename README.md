@@ -63,8 +63,8 @@
 
 ### Week 7 - Keyboard Input and Collisions (Feb 24th-27th)
 
-* [iSpy Start Package](https://github.com/zevenrodriguez/CIM440-IntroToCreativeCoding/blob/master/examples/ispyprojectstart.unitypackage)
-* [iSpy Finished Package](https://github.com/zevenrodriguez/CIM440-IntroToCreativeCoding/blob/master/examples/ispyproject.unitypackage)
+* [iSpy Start Package](https://github.com/zevenrodriguez/CIM440-IntroToCreativeCoding/raw/master/examples/ispyprojectstart.unitypackage)
+* [iSpy Finished Package](https://github.com/zevenrodriguez/CIM440-IntroToCreativeCoding/raw/master/examples/ispyproject.unitypackage)
 * [Keyboard Input](https://github.com/zevenrodriguez/CIM440-IntroToCreativeCoding/blob/master/examples/CC-GettingStarted/Assets/script/exampleScripts/ispykeyboardScript.cs)
 * [Trigger Collision](https://github.com/zevenrodriguez/CIM440-IntroToCreativeCoding/blob/master/examples/CC-GettingStarted/Assets/script/exampleScripts/ispycollision.cs)
 
@@ -72,7 +72,7 @@
 
 * Finish iSpy
 * Adding Assets
-  * [Finished Example](https://github.com/zevenrodriguez/CIM440-IntroToCreativeCoding/blob/master/examples/importAssets.unitypackage)
+  * [Finished Example](https://github.com/zevenrodriguez/CIM440-IntroToCreativeCoding/raw/master/examples/importAssets.unitypackage)
   * https://assetstore.unity.com/
   * https://poly.google.com/
   * https://3d.si.edu/
