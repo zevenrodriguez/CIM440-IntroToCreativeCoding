@@ -21,6 +21,7 @@ public class ispykeyboardScript : MonoBehaviour
 
         if (Input.GetKey(KeyCode.RightArrow)){
 			transform.position += Vector3.right * speed * Time.deltaTime;
+			//transform.position = transform.postion + Vector3.right * speed * Time.deltaTime;
 		}
 		if (Input.GetKey(KeyCode.LeftArrow)){
 			transform.position += Vector3.left * speed * Time.deltaTime;

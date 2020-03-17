@@ -87,7 +87,35 @@ Based of the Gallery, Quiz, or iSpy interactions create a new original project.
 * Add a timer or scoring element (10 Points)
 
 
-### Week 9 - Midterm Project Workday (Mar 16th-19th)
+# [New Syllabus](CIM440-IntrotoCreativeCoding-General-Updated.pdf)
+
+The class will be a flip classroom. I will post video lectures or assignments before class and during class we will have office hours. I will be available only through teams. I would like to keep emailing to a minimum to make sure that all questions get answered. If you have general questions, use the general chat. If you have specific questions, feel free to send me a message. Teams has a great feature to do screen sharing, FYI. If you are not available for class due to time zone issues, please reach out to make arrangements.
+
+•	Online lecturers will be available before class
+•	Check in periodically for updates on assignments and lectures
+•	Office hours during class time
+•	Install Teams desktop
+
+Week of March 23rd – Midterm Project Lab
+
+#### Midterm Requirements
+
+Based of the Gallery, Quiz, or iSpy interactions create a new original project.
+
+* Create an orignal layout (10 Points)
+* Extend the example to make it your own
+  * Add a minimum 8 elements of interaction (10 Points each)
+* Add a timer or scoring element (10 Points)
+
+Week of March 30th – Audio and Video
+Week of April 6th - Intro to Physics
+Week of April 13th – Working with Prefabs
+Week of April 20th - Inputs
+Week of April 27th - Final Project Lab
+Week of May 4th - Final Projects Due May 6
+
+
+<!-- ### Week 9 - Midterm Project Workday (Mar 16th-19th)
 
 ### Week 10 – Physics and Collision Detection (Mar 23rd-26th)
 
@@ -116,7 +144,7 @@ April 25 - April 28 - Reading Days
 
 April 29- May 6 - FINAL EXAMS
 
-
+-->
 
 
 # Asset Resources

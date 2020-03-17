@@ -7,7 +7,6 @@ public class ispycollision : MonoBehaviour
 {
     // Start is called before the first frame update
 
-    public GameObject cursor;
 	public Text clock;
     public Text balloon;
 	public Text guitar;
@@ -29,7 +28,7 @@ public class ispycollision : MonoBehaviour
 
     void OnTriggerEnter(Collider col)
     {
-        
+        //col is the reference to the object cursor is colliding with
         //Ouput the Collision to the console
         if(col.gameObject.name=="clock"){
             Debug.Log("Found Clock");
@@ -43,6 +42,8 @@ public class ispycollision : MonoBehaviour
             Debug.Log("Found Guitar");
             guitar.text = "✓";
             guitar.color = new Color32(0,255,0,255);
+        }else if(col.gameObject.name == "plate"){
+            //do something
         }
         Debug.Log("Collision : " + col.gameObject.name);
     }
