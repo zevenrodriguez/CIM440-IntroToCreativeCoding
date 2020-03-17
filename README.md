@@ -107,12 +107,12 @@ Based of the Gallery, Quiz, or iSpy interactions create a new original project.
   * Add a minimum 8 elements of interaction (10 Points each)
 * Add a timer or scoring element (10 Points)
 
-Week of March 30th – Audio and Video
-Week of April 6th - Intro to Physics
-Week of April 13th – Working with Prefabs
-Week of April 20th - Inputs
-Week of April 27th - Final Project Lab
-Week of May 4th - Final Projects Due May 6
+### Week of March 30th – Audio and Video
+### Week of April 6th - Intro to Physics
+### Week of April 13th – Working with Prefabs
+### Week of April 20th - Inputs
+### Week of April 27th - Final Project Lab
+### Week of May 4th - Final Projects Due May 6
 
 
 <!-- ### Week 9 - Midterm Project Workday (Mar 16th-19th)
