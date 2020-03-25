@@ -10,6 +10,8 @@
 
 ### [Unity Scripting Reference](https://docs.unity3d.com/2019.2/Documentation/ScriptReference/index.html)
 
+# [All Class Examples](/examples/Allprojects3-25.unitypackage)
+
 ### Week 1 - Introduction to Creative Coding and Getting Started with Unity (Jan 13th-16th)
 
 * [Intro to Creative Coding Slides](https://docs.google.com/presentation/d/1JOyKlBnO07jWDOI2GCSGj7Qi4ifHQrrECOa8ZJdVJA8/edit?usp=sharing)
@@ -88,6 +90,7 @@ Based of the Gallery, Quiz, or iSpy interactions create a new original project.
 
 
 # [New Syllabus](CIM440-IntrotoCreativeCoding-General-Updated.pdf)
+
 
 The class will be a flip classroom. I will post video lectures or assignments before class and during class we will have office hours. I will be available only through teams. I would like to keep emailing to a minimum to make sure that all questions get answered. If you have general questions, use the general chat. If you have specific questions, feel free to send me a message. Teams has a great feature to do screen sharing, FYI. If you are not available for class due to time zone issues, please reach out to make arrangements.
 
