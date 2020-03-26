@@ -149,6 +149,18 @@ April 29- May 6 - FINAL EXAMS
 
 -->
 
+# Backing Up Your Work
+* Use a cloud service, Onedrive has worked the best for me
+  * Careful with cloud services that have online/offline file systems
+  * If your files are only saved to the cloud and not your computer unity will have trouble operating correctly
+* Sign up for github and use the Github Student Developer Pack https://education.github.com/pack
+* You can sign up for Unity Student https://store.unity.com/academic/unity-student allowing you more storage space to upload your projects to Unity Collab
+* Download and Install github desktop https://desktop.github.com/
+  * On Macs, under the menu option for github desktop, it says install command line tools, make sure you do that.
+* In Unity, import the github plugin into your projects
+* I cover all of this stuff in this video 
+
+
 
 # Asset Resources
 
