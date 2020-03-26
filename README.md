@@ -158,7 +158,7 @@ April 29- May 6 - FINAL EXAMS
 * Download and Install github desktop https://desktop.github.com/
   * On Macs, under the menu option for github desktop, it says install command line tools, make sure you do that.
 * In Unity, import the github plugin into your projects
-* I cover all of this stuff in this video 
+* [I cover all of this stuff in this video](https://miami.zoom.us/rec/play/6cApduus-zI3EoKd4gSDAqctW43vL66sgyUW_fAPzE_hV3UFZFH3Z7QQZuuRuGLM9m5Fw68SfYE4-siv?autoplay=true&startTime=1585236819000) 
 
 
 
