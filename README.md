@@ -112,12 +112,23 @@ Based of the Gallery, Quiz, or iSpy interactions create a new original project.
 
 ### Week of March 30th – Audio and Video
 ### Week of April 6th - Intro to Physics
-* [Audio and Video video tutorial]()
-* [Audio and video Completed Project]()
+* [Understanding Vectors](https://www.youtube.com/watch?v=jUVMtq-OqyY)
+* [Audio and Video video tutorial](https://miami.zoom.us/rec/share/-tBKPez7pzNLSJ2duUjbVK47B57KT6a823Ab_PNbnktvBCNOMcFj4euJCmIJOewu?startTime=1585681385000)
+* [Audio and video Completed Project](https://github.com/zevenrodriguez/CIM440-IntroToCreativeCoding/raw/master/examples/audioandvideoexample.unitypackage)
 * [Animating and Adding Materials to Gameobjects](https://docs.google.com/presentation/d/1e3iNmym_xWIIbtgf0GnyncNbgvpfkMFGuTWkkzJ9vmQ/edit?usp=sharing)
 * [Playing with Physics](https://docs.google.com/presentation/d/1AYGsVnLf-0f7TsBKyXbd65kpikdHy2iO6AcKIvjGOkw/edit?usp=sharing)
 
-https://www.youtube.com/watch?v=e3z91RqZPAk&feature=emb_title
+#### HW Complete the slides and Code Challenge (Due April 20th)
+* Part 1
+  * Add an else statement to the bounce code, and change the color
+* Part 2 (Hint: use move cube example)
+  * Create a new scene and script
+  * Adjust the Z axis, When the ball goes forward, color = yellow
+  * When the ball goes back, color = red
+  * No gravity is needed
+* Document both in a video and include the code examples in teams
+
+
 
 ### Week of April 13th – Working with Prefabs
 ### Week of April 20th - Inputs
