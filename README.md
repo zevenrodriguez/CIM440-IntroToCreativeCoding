@@ -112,6 +112,13 @@ Based of the Gallery, Quiz, or iSpy interactions create a new original project.
 
 ### Week of March 30th – Audio and Video
 ### Week of April 6th - Intro to Physics
+* [Audio and Video video tutorial]()
+* [Audio and video Completed Project]()
+* [Animating and Adding Materials to Gameobjects](https://docs.google.com/presentation/d/1e3iNmym_xWIIbtgf0GnyncNbgvpfkMFGuTWkkzJ9vmQ/edit?usp=sharing)
+* [Playing with Physics](https://docs.google.com/presentation/d/1AYGsVnLf-0f7TsBKyXbd65kpikdHy2iO6AcKIvjGOkw/edit?usp=sharing)
+
+https://www.youtube.com/watch?v=e3z91RqZPAk&feature=emb_title
+
 ### Week of April 13th – Working with Prefabs
 ### Week of April 20th - Inputs
 ### Week of April 27th - Final Project Lab
@@ -158,7 +165,7 @@ April 29- May 6 - FINAL EXAMS
 * Download and Install github desktop https://desktop.github.com/
   * On Macs, under the menu option for github desktop, it says install command line tools, make sure you do that.
 * In Unity, import the github plugin into your projects
-* [I cover all of this stuff in this video](https://miami.zoom.us/rec/play/6cApduus-zI3EoKd4gSDAqctW43vL66sgyUW_fAPzE_hV3UFZFH3Z7QQZuuRuGLM9m5Fw68SfYE4-siv?autoplay=true&startTime=1585236819000) 
+* [I cover all of this stuff in this video](https://miami.zoom.us/rec/play/6cApduus-zI3EoKd4gSDAqctW43vL66sgyUW_fAPzE_hV3UFZFH3Z7QQZuuRuGLM9m5Fw68SfYE4-siv?autoplay=true&startTime=1585236819000)
 
 
 

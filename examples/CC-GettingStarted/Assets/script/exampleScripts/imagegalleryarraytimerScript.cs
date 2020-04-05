@@ -53,8 +53,7 @@ public class imagegalleryarraytimerScript : MonoBehaviour
       */
 
         timer = timer + Time.deltaTime;
-        //Debug.Log(timer);
-        counter = (int)timer;
+       
         Debug.Log(counter);
         if(counter >= 4){
             timer = 0;
