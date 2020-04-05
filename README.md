@@ -111,10 +111,11 @@ Based of the Gallery, Quiz, or iSpy interactions create a new original project.
 * Add a timer or scoring element (10 Points)
 
 ### Week of March 30th – Audio and Video
-### Week of April 6th - Intro to Physics
-* [Understanding Vectors](https://www.youtube.com/watch?v=jUVMtq-OqyY)
 * [Audio and Video video tutorial](https://miami.zoom.us/rec/share/-tBKPez7pzNLSJ2duUjbVK47B57KT6a823Ab_PNbnktvBCNOMcFj4euJCmIJOewu?startTime=1585681385000)
 * [Audio and video Completed Project](https://github.com/zevenrodriguez/CIM440-IntroToCreativeCoding/raw/master/examples/audioandvideoexample.unitypackage)
+
+### Week of April 6th - Intro to Physics
+* [Understanding Vectors](https://www.youtube.com/watch?v=jUVMtq-OqyY)
 * [Animating and Adding Materials to Gameobjects](https://docs.google.com/presentation/d/1e3iNmym_xWIIbtgf0GnyncNbgvpfkMFGuTWkkzJ9vmQ/edit?usp=sharing)
 * [Playing with Physics](https://docs.google.com/presentation/d/1AYGsVnLf-0f7TsBKyXbd65kpikdHy2iO6AcKIvjGOkw/edit?usp=sharing)
 
