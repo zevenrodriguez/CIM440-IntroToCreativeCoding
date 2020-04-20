@@ -138,7 +138,7 @@ Based of the Gallery, Quiz, or iSpy interactions create a new original project.
 
 # Final Project
 
-For the final you are going to choose to make either a physics based game or an adventure style game. Start by completing one of the following sets of notes. Once completed you must add 3 interactable elements.
+For the final you are going to choose to make either a physics based game or an adventure style game. Start by completing one of the following sets of notes. Once completed you must add 3 interactive elements.
 
 * Choose one of the following:
   * Physics Game
