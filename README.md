@@ -136,6 +136,23 @@ Based of the Gallery, Quiz, or iSpy interactions create a new original project.
 ### Week of April 27th - Final Project Lab
 ### Week of May 4th - Final Projects Due May 6
 
+# Final Project
+
+For the final you are going to choose to make either a physics based game or an adventure style game. Start by completing one of the following sets of notes. Once completed you must add 3 interactable elements.
+
+* Choose one of the following:
+  * Physics Game
+    * [Getting Started & Collision Detection](https://drive.google.com/open?id=1fZuIBk7ZiFVqaXrHdZmrYDULJx5-qaAi9YDb3H2KyWk)
+    * [Getting User Input](https://drive.google.com/open?id=1yK8jw7Z4pnFYb3cjm83HoedfkIcF7EtdYUtkSK0ep5o)
+    * [Trigger Colliders](https://drive.google.com/open?id=1ECbLuAmul7_dfJ5YJefn0-I2NtmvophjCamvlY75rIA)
+    * [Game Logic](https://drive.google.com/open?id=1mmws2bT6GS7BJZNvXHu4OAnhfgiGOE1KhmyC11Kj7gs)
+  * Adventure Game
+    * [Getting Started & Using Lights, Cameras, and Assets](https://drive.google.com/open?id=1en8qdL-GEgSY9YlNUysxD9Zw4bvGvht-xzy-0VwoLG4)
+    * [Inputs and Switch Statements](https://drive.google.com/open?id=1KrpwnEv4LjCI8Qc4FGieo_RwfNR_pFtJFGcLnooU5Hk)
+    * [Adding a UI](https://drive.google.com/open?id=1z0L3bYlRIVDPm9iRcjR0KvXL5fwIfvxNTZkXmbvRaT8)
+    * [Dynamic (Pop-Up)](https://drive.google.com/open?id=1WB6bYzA76Rf9KZ5BX4CeB4J_7uMZlHLlc1_VdTGUeqA)
+
+#### Once completed: Add 3 interactable elements
 
 <!-- ### Week 9 - Midterm Project Workday (Mar 16th-19th)
 
